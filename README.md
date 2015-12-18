@@ -17,7 +17,7 @@ Current version in maven central is `0.4-rc3.6`.
 - GPU integration
 - Scalable on Hadoop, Spark and Akka + AWS et al
 
----
+--- 
 ## Modules
 - cli = command line interface for deeplearning4j
 - core = core neural net structures and supporting components such as datasets, iterators, clustering algorithms, optimization methods, evaluation tools and plots.
